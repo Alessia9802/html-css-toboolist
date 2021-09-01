@@ -67,11 +67,6 @@ hr {
   
 }
 
-ul {
-  list-style: none;
-  
-}
-
 #Livello_1 {
   width: 10px;
   height: 10px;
@@ -85,7 +80,7 @@ ul {
 }
 
 .check {
-      size: 10px;
+      font-weight: bolder;
       background: rgb(255, 255, 255);
       border-radius: 50%;
       border: 3px solid #6FC6B2;
@@ -98,8 +93,29 @@ ul {
     
     }
 
+.contenuto {
+  font-weight: normal;
+  color: #444851;
 }
 
+#primo {
+  color: white;
+  background-color:#47ADF1;
+  border-radius: 0.8rem;
+  border:1px solid #47ADF1;
+  padding: 7px;
+  font-weight: 100;
+  font-size: 11px;
+  
+
+}
+
+ul {
+  padding-left: 2.8rem;
+  padding-top: 2rem;
+  list-style: none;
+
+}
 
 
 
