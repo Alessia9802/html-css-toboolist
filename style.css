@@ -39,4 +39,68 @@ header {
 
 }
 
+#Task {
+  color: white;
+  background-color:#47ADF1;
+  border-radius: 0.4rem;
+  border:2px solid #47ADF1;
+  padding: 8px;
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 2.8rem;
+  margin-top: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+#Section1 {
+  color: #C6CCD1;
+  background-color:#ffffff;
+  border-radius: 0.4rem;
+  border: 2px solid #C6CCD1;
+  padding: 8px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+hr {
+  border: 1px solid #C6CCD1;
+  
+}
+
+ul {
+  list-style: none;
+  
+}
+
+#Livello_1 {
+  width: 10px;
+  height: 10px;
+  vertical-align: baseline;
+  color: #444851;
+}
+
+.titoli {
+  font-weight: bold;
+  color: #444851;
+}
+
+.check {
+      size: 10px;
+      background: rgb(255, 255, 255);
+      border-radius: 50%;
+      border: 3px solid #6FC6B2;
+      color:#6FC6B2;;
+      padding: 0.1rem;
+      padding-left: 0.2rem;
+      padding-right: 0.2rem;
+      padding-top: 0.1rem;
+      padding-bottom:0.1rem ;
+    
+    }
+
+}
+
+
+
+
 
