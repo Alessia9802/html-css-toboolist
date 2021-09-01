@@ -93,6 +93,20 @@ hr {
     
     }
 
+.cross {
+      font-weight: bolder;
+      background: rgb(255, 255, 255);
+      border-radius: 50%;
+      border: 3px solid #EB5B54;
+      color:#EB5B54;
+      padding: 0.1rem;
+      padding-left: 0.2rem;
+      padding-right: 0.2rem;
+      padding-top: 0.1rem;
+      padding-bottom:0.1rem ;
+    
+    }    
+
 .contenuto {
   font-weight: normal;
   color: #444851;
@@ -107,13 +121,49 @@ hr {
   font-weight: 100;
   font-size: 11px;
   
-
 }
 
+#secondo {
+  color: white;
+  background-color:#9C72E4;
+  border-radius: 0.8rem;
+  border:1px solid #9C72E4;
+  padding: 7px;
+  font-weight: 100;
+  font-size: 11px;
+  
+}
+
+#terzo {
+  color: white;
+  background-color:#64C0A9;
+  border-radius: 0.8rem;
+  border:1px solid #64C0A9;
+  padding: 7px;
+  font-weight: 100;
+  font-size: 11px;
+  
+}
+
+#quarto {
+  color: white;
+  background-color:#F29E33;
+  border-radius: 0.8rem;
+  border:1px solid #F29E33;
+  padding: 7px;
+  font-weight: 100;
+  font-size: 11px;
+  
+}
 ul {
   padding-left: 2.8rem;
   padding-top: 2rem;
   list-style: none;
+
+}
+
+span {
+  line-height: 3rem;
 
 }
 
