@@ -1,23 +1,21 @@
-*{
-   box-sizing: border-box;
-   margin: 0; 
-   padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: #F6F8F9;
-    font-family:Arial, Helvetica, sans-serif;
-    
+  background-color: #f6f8f9;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color: #ffffff;
-    height: 80px;
-    margin:0%;
-    padding-left: 1rem;
-    padding-top: 1rem;
+  background-color: #ffffff;
+  height: 80px;
+  margin: 0%;
+  padding-left: 1rem;
+  padding-top: 1rem;
 }
-
 
 #titolo {
   font-size: 40px;
@@ -25,25 +23,23 @@ header {
 }
 
 .intestazione {
-    float: left;
-
+  float: left;
 }
 
 .riquadro {
-    background-color: rgb(255, 255, 255);
-    width: 50rem;
-    height:35rem;
-    border-radius: 0.2rem;
-    margin: 0 auto;
-    margin-top: 3rem;
-
+  background-color: rgb(255, 255, 255);
+  width: 50rem;
+  height: 35rem;
+  border-radius: 0.2rem;
+  margin: 0 auto;
+  margin-top: 3rem;
 }
 
 #Task {
   color: white;
-  background-color:#47ADF1;
+  background-color: #47adf1;
   border-radius: 0.4rem;
-  border:2px solid #47ADF1;
+  border: 2px solid #47adf1;
   padding: 8px;
   font-weight: bold;
   font-size: 12px;
@@ -53,18 +49,17 @@ header {
 }
 
 #Section1 {
-  color: #C6CCD1;
-  background-color:#ffffff;
+  color: #c6ccd1;
+  background-color: #ffffff;
   border-radius: 0.4rem;
-  border: 2px solid #C6CCD1;
+  border: 2px solid #c6ccd1;
   padding: 8px;
   font-weight: bold;
   font-size: 12px;
 }
 
 hr {
-  border: 1px solid #C6CCD1;
-  
+  border: 1px solid #c6ccd1;
 }
 
 #Livello_1 {
@@ -80,32 +75,33 @@ hr {
 }
 
 .check {
-      font-weight: bolder;
-      background: rgb(255, 255, 255);
-      border-radius: 50%;
-      border: 3px solid #6FC6B2;
-      color:#6FC6B2;;
-      padding: 0.1rem;
-      padding-left: 0.2rem;
-      padding-right: 0.2rem;
-      padding-top: 0.1rem;
-      padding-bottom:0.1rem ;
-    
-    }
+  font-weight: bolder;
+  background: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 3px solid #6fc6b2;
+  color: #6fc6b2;
+  padding: 0.1rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  font-size: 0.9rem;
+}
 
 .cross {
-      font-weight: bolder;
-      background: rgb(255, 255, 255);
-      border-radius: 50%;
-      border: 3px solid #EB5B54;
-      color:#EB5B54;
-      padding: 0.1rem;
-      padding-left: 0.2rem;
-      padding-right: 0.2rem;
-      padding-top: 0.1rem;
-      padding-bottom:0.1rem ;
-    
-    }    
+  font-weight: bolder;
+  background: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 3px solid #eb5b54;
+  color: #eb5b54;
+  padding: 0.1rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
 
 .contenuto {
   font-weight: normal;
@@ -114,81 +110,69 @@ hr {
 
 #primo {
   color: white;
-  background-color:#47ADF1;
+  background-color: #47adf1;
   border-radius: 0.8rem;
-  border:1px solid #47ADF1;
+  border: 1px solid #47adf1;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 
 #secondo {
   color: white;
-  background-color:#9C72E4;
+  background-color: #9c72e4;
   border-radius: 0.8rem;
-  border:1px solid #9C72E4;
+  border: 1px solid #9c72e4;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 
 #terzo {
   color: white;
-  background-color:#64C0A9;
+  background-color: #64c0a9;
   border-radius: 0.8rem;
-  border:1px solid #64C0A9;
+  border: 1px solid #64c0a9;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 
 #quarto {
   color: white;
-  background-color:#F29E33;
+  background-color: #f29e33;
   border-radius: 0.8rem;
-  border:1px solid #F29E33;
+  border: 1px solid #f29e33;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 
 #quinto {
   color: white;
-  background-color:#D863A1;
+  background-color: #d863a1;
   border-radius: 0.8rem;
-  border:1px solid #D863A1;
+  border: 1px solid #d863a1;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 
 #sesto {
   color: white;
-  background-color:#B0C926;
+  background-color: #b0c926;
   border-radius: 0.8rem;
-  border:1px solid #B0C926;
+  border: 1px solid #b0c926;
   padding: 7px;
   font-weight: 100;
   font-size: 11px;
-  
 }
 ul {
   padding-left: 2.8rem;
   padding-top: 2rem;
   list-style: none;
-
 }
 
 span {
-  line-height: 2.5rem;
-
+  line-height: 1.5rem;
 }
-
-
-
-
